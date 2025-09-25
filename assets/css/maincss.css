@@ -1,0 +1,17 @@
+.container {
+            padding-top: 50px;
+        }
+.button-container {
+            padding-top: 20px;
+        }
+.d-flex {
+    gap: 20px;
+        }
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    }
+main {
+    flex: 1 0 auto;
+    }
